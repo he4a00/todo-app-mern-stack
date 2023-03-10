@@ -1,5 +1,5 @@
 {
-  "proxy": "https://todo-app-server-hnyb.onrender.com",
+  "proxy": "https://todo-app-server-hnyb.onrender.com/api",
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
